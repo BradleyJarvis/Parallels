@@ -1,0 +1,24 @@
+﻿  Tutorial 1.cpp
+Tutorial 1.cpp(103): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'long', possible loss of data
+Tutorial 1.cpp(105): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'long', possible loss of data
+Tutorial 1.cpp(109): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'long', possible loss of data
+Tutorial 1.cpp(118): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Tutorial 1.cpp(148): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'long', possible loss of data
+Tutorial 1.cpp(150): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'long', possible loss of data
+Tutorial 1.cpp(154): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'long', possible loss of data
+Tutorial 1.cpp(192): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'long', possible loss of data
+Tutorial 1.cpp(194): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'long', possible loss of data
+Tutorial 1.cpp(198): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'long', possible loss of data
+Tutorial 1.cpp(237): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'long', possible loss of data
+Tutorial 1.cpp(239): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'long', possible loss of data
+Tutorial 1.cpp(243): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'long', possible loss of data
+Tutorial 1.cpp(284): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'long', possible loss of data
+Tutorial 1.cpp(286): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'long', possible loss of data
+Tutorial 1.cpp(290): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'long', possible loss of data
+  Generating code
+  All 780 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Tutorial 1.vcxproj -> C:\Users\Computing\Downloads\OpenCL Tutorials - Tutorial 1\OpenCL Tutorials\x64\Release\Tutorial 1.exe
+  Tutorial 1.vcxproj -> C:\Users\Computing\Downloads\OpenCL Tutorials - Tutorial 1\OpenCL Tutorials\x64\Release\Tutorial 1.pdb (Full PDB)
+  my_kernels.cl
+          1 file(s) copied.
